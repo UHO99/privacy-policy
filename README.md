@@ -1,5 +1,5 @@
-# DOT CASINO — Privacy Policy
+# UHO — Privacy Policy
 
-Privacy policy for the Android app **도트 카지노 (DOT CASINO)** (`com.dotcasino.slot`) by UHO.
+Privacy policy shared by all apps published by **UHO** (Korean, English, Japanese).
 
-Published with GitHub Pages: open `index.html`.
+Live page (GitHub Pages): https://uho99.github.io/privacy-policy/
